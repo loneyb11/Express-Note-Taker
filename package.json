@@ -1,0 +1,26 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "Express Note Taker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Ben Loney",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mysql": "^2.16.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loneyb11/Express-Note-Taker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/loneyb11/Express-Note-Taker/issues"
+  },
+  "homepage": "https://github.com/loneyb11/Express-Note-Taker#readme"
+}
