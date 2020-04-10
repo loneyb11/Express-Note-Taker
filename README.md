@@ -15,7 +15,7 @@ I WANT to be able to delete notes I've written before
 SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ![Note taker image](public/assets/img/Express-note-taker.png)
-![Note taker gif](public/assets/img/note-taker_2.gif)
+![Note taker gif](public/assets/img/note-taker_2.gif) 
 
 ## Business Context
 
