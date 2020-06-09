@@ -1,0 +1,7 @@
+"*":
+  core:
+    telemetryConsent: "no"
+  "exception-reporting":
+    userId: "e27803fb-cade-4ec2-838f-5aa60e8c4c8e"
+  "tree-view":
+    hideVcsIgnoredFiles: true

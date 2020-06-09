@@ -1,500 +1,500 @@
-git pull
-git push
-git add "index.html" "scripts.js" "styles.css"
-git push
-git push origin/quiz
-git push origin quiz
-git push https://github.com/loneyb11/Quiz
-git pull
-git add "index.html" "scripts.js" "styles.css"
-git commit -m "added news files"
-ls
-ls
-cd Quiz
-ls
-git add "index.html"
-git add "styles.css"
-git add "scripts.js"
-git commit -m "updated new files"
-git push https://github.com/loneyb11/Quiz
-git pull
-git push
-ls
-cd github
-ls
-cd quiz
-ls
-git add "index.html"
-git pull
-git git commit -m "updating new files"
-git commit -m "adding new files"
-git add "index.html"
-git add "scripts.js"
-git add "styles.css"
-git commit -m "added new files"
-git push
-git pull
-ls
-git clone https://github.com/CodeExplainedRepo/Multiple-Choice-Quiz-JavaScript.git
-git clone https://github.com/the-Coding-Boot-Camp-at-UT/UTSA-SAN-FSF-PT-01-2020-U-C.git
-if (classToApply === "correct") {
-      incrementScore(CORRECT_BONUS);
-    }
-ls
-cd UTSA-SAN-FSF-PT-01-2020-U-C
-git clone
-git clone https://github.com/loneyb11/Homework-05-Calendar-app.git
-git clone https://github.com/TheFarrier/bomb-squad.git
-ls
-git clone https://github.com/ccotheceo/Day-Planner.git
-ls
-git clone https://github.com/loneyb11/Class_Project_01.git
-ls
-cd Class_Project_01
-ls
-git pull
-git push origin/master
-git push master
-git push
-git pull
-ls
-npm install bulma
-cd downloads
-ls
-sh
-mkdir My_lineup
-ls
-cd My_lineup
-touch index.html, style.css, script.js
-ls
-git clone https://github.com/Aslangh67/Weather-Dashboard.git
-git clone https://github.com/saltamay/weather-dashboard.git
-git clone https://github.com/RodrigoAGM/Nearby-Places-Finder.git
-git clone https://github.com/BulmaTemplates/bulma-templates.git
-git clone https://github.com/Frankcarvajal/squadIQ.git
-git clone https://github.com/bgotchall/event_locator.git
-mkdir project_1
-git status
-git branch
-git reset --hard origin/master
-clear
-git checkout -b ben-666
-clear
-git clone https://github.com/jonasschmedtmann/complete-javascript-course.git
-ls
-cd UTSA-SAN-FSF-PT-01-2020-U-C
-ls
-git pull
-cd website designs
-ls
-cd Website Designs
-ls
-cd UTSA-SAN-FSF-PT-01-2020-U-C
-git pull
-node -v
-node 1+1
-node > 1+1
-node index.js
-node index.js
-node [index.js]
-ls
-cd UTSA-SAN-FSF-PT-01-2020-U-C
-git pull
-cd loney
-mkdir Node
-cd node
-touch index.js
-node
-node index.js
-ls
-cd Node
-node index.js
-node index.js Hello
-node index.js Hello World
-node
-node
-`chsh -s /bin/zsh`
-node.js
-loney
-ls
-node
-node.js
-node.js
-node.js
-node
-npm i -g npm
-node
-node
-node
-node index.js
-mkdir index.js
-node index.js
-Node
-node index.js
-node index.js
-cd 08-NodeJS
-node index.js
-node index.js
-node index.js
-cd 05-Ins_readFile
-mkdir index.js maths.js
-ls
-cd index.js
-import maths.js
-node index.js
-node
-node index.js
-node
-node index.js
-node badmath.js
-node index.js
-node
-node index.js
-node.js
-node 
-touch index.js
-touch math.js
-maths.js
-touch maths.js
-cd index.js
-touch index.js
-touch.js
-touch index.js
-ls
-node index.js 
-node index.js 
-node index.js 
-clear
-difference 3 4
-difference 3 4
-node index.js
-cd loney
-node
-ls
-cd 
-`npm install`
-`npm install` inquirer
-npm install inquirer
-npm echo
-npm install echo
+mkdir -p /data/db
+mkdir data
+mkdir db
+brew tap mongodb/brew
+brew install <formula>
+brew install mongodb-community
+brew install mongodb-community@4.2
+mongod
+brew services start mongodb-community
+brew services stop mongodb-communit
+brew services stop mongodb-community
+mongod
+brew services start mongodb-community
+mongo
+mongo
+mongod
+mongo stop
+mongo
+brew
+mongod
+mongo
+mongod
+mongo
+brew mongodb
+brew mongo
+brew start mongo
+homebrew mongo
+mongo test
+mongo --version
+mongod --noauth --dbpath ~/mongo/data/db
+npm install -p mongoose
+db
+mongo
+mongo
+heroku logs
+heroku login
 npm install express
-npm --version
-node index.js
-npm install badmath
-npm install angular
-npm install react
-npm install moment
-npm install inquirer
-npm install inquirer
-npm install inquirer
-npm init
-npm install inquirer
-git clone https://github.com/wesbos/es6.io.git
-ls
-cd UTSA-SAN-FSF-PT-01-2020-U-C
-git pull
-cd UTSA-SAN-FSF-PT-01-2020-U-C
-git pull
-git commitgit pull
-git pull
-ls
-cd Password_Generator
-git pull
-git commit -m 'updated ReadMe'
-git push
-git pull
-git push
-git commit
-git commit 'README.md'
-ls
-cd Password_Generator
-git status
-git add README.md
-git push
-git pull
-git push
-git pull
-git merge
-git add README.md
-git pull
-git push
-git commit
-node index.js
-node index.js
-node index.js
-index.js
-node
-node index.js
-cd 37-stu_promise-constructor
-index.js
-node index.js
-node 37-Stu_Promise-Constructor
-node index.js
-node index.js
-npm install nodejs
-npm audit fix
-node index.js
-npm install
-node index.js
-node index.js
-ls
-cd UTSA-SAN-FSF-PT-01-2020-U-C
-git pull
-git push 09-NodeJS/01-Activities/24-Stu_Template_Literals/Unsolved/index.js
-09-NodeJS/01-Activities/28-Stu_Rest_and_Spread/Unsolved/index.js
-git comitt
-git commit 09-NodeJS/01-Activities/28-Stu_Rest_and_Spread/Unsolved/index.js
-node minbank.js
-npm install
-node CLI.js
-npm install
-node minibnk.js
-npm audit
-npm package.json
-npm install
-npm fund
-npm minibank.js
-ls
-cd UTSA-SAN-FSF-PT-01-2020-U-C
-ls
-git pull
-node tamagotchi.js
-node tamagotchi.js
-node tamagotchi.js
-npm i -g jest
-sudo npm i -g jest
-ls
-cd loney
-cd home
-cd user/loney
-pwd
-cd Users/Loney
-cd Loney
-cd /Users/Loney
-npm i -g jest
-node index.js
-ls
-cd UTSA-SAN-FSF-PT-01-2020-U-C
-ls
-cd 10-OOP 
-node index.js
-npm install -g jest
-sudo chown -R $USER /usr/local/lib/node_modules
-npm install -g jest
-node index.js
-node
-pwd
-ls
-git clonehttps://github.com/loneyb11/DeveloperProfileGenerator.git
-git clone https://github.com/loneyb11/DeveloperProfileGenerator.git
-cd DeveloperProfileGenerator
-git add -m "new files" Assets Develop
-git add Assets
-git add Develop
-git commit -m new files
-git push
-git add Assets
-git add Develop
-git commit "new files"
-git push
-git pull
-ls
-git pull
-git push
-git commit -m new files
-git commit Assets
-ls
-cd DeveloperProfileGenerator
-ls
-git commit -m "new files" Assets
-git commt -M "new files" Develop
-git commit -m "new files" Develop
-git push
-ls
-ls
-cd UTSA-SAN-FSF-PT-01-2020-U-C
-git pull
-git pull
-git commit -m updated file
-git merge
-git pull
-git push
-git pull
-cd UTSA-SAN-FSF-PT-01-2020-U-C
-
-git pull
-ls
-cd UTSA-SAN-FSF-PT-01-2020-U-C
-git pull
-git push
-git pull
-ls
-cd server
-touch server.js
-ls
-git clone https://github.com/loneyb11/template-engine.git
-git clone https://github.com/Dritchie3/HotRestaurant.git
-git clone echo "# Express-Note-Taker" >> README.md
+npm install express-handlebars
+npm install-session
+npm install express-session
+npm install passport
+npm install bcrypt
+npm install sequelize
+git clone
+git clone https://github.com/TheFarrier/Gif-Lash.git
+echo "# gif-lash" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
-git remote add origin https://github.com/loneyb11/Express-Note-Taker.git
+git remote add origin https://github.com/loneyb11/gif-lash.git
 git push -u origin master
-ls
-git clone
-git clone https://github.com/loneyb11/Express-Note-Taker.git
-ls
-cd Express-Note-Taker
-git add readme
-git commit -m added readme
-git commit readme
-git commit README.md
-cd express-note-taker
-git commit -m "added readme"  README.md
-git commit -m "added develop folder" Develop
-git add Develop
-git commit "added develop folder"
-git commit -m "added develop folder" Develop
-git push
-ls
-cd DeveloperProfileGenerator
-mkdir .gitignore
-cd template-engine
-mkdir .gitignore
-cd gitignore
-git commit -m "added gitignore"
-git add gitignore
-git commit gitignore
-git push
-ls
-touch gitignore
-git add gitignore
-git commit -m "added gitignore"
-git push gitignore
-git push
-git pull
-git pull
-ls
-cd UTSA-SAN-FSF-PT-01-2020
-cd UTSA-SAN-FSF-PT-01-2020-U-C
-git pull
-ls
-cd Express-Note-Taker
-git pull
-git push
-git pull
-git commit -m "organized files"
-git commit 
-sudo snap install heroku --classic
-heroku
-log in
-heroku login
-git clone https://github.com/heroku/node-js-getting-started.git
-git clone https://github.com/heroku/node-js-getting-started.git
-cd node-js-justgetting-started
-heroku create
-Creating sharp-rain-871... done, stack is heroku-18
-http://sharp-rain-871.herokuapp.com/ | https://git.heroku.com/sharp-rain-871.git
-Git remote heroku addedgit push heroku master
-heroku ps:scale web=1
-heroku open
-heroku create
-git status
-cd Express-Note-Taker
-heroku create
-heroku create
-ls
-cd Express-Note-Taker
-ls
-cd public
-ls
-cd assets
-mkdir "img"
-ls
-cd img
-git add "note-taker"
-git add "note-taker.mov"
-git add "Express-note-taker.png"
-git commit "added new images/videos"
-git commit -m "new files"
-git push
-ls
-cd Express-Note-Taker
-ls
-cd public
-ls
-cd assets
-git add "note-taker_2.gif"
-cd img
-git add "note-taker_2.gif"
-git commit -m "added gif"
-git push 
-git pull
-ls
-cd UTSA-SAN-FSF-PT-01-2020-U-C
-git pull
-ls
-cd UTSA-SAN-FSF-PT-01-2020-U-C
-git pull
-git commit -m updated files
-git merge
-git commit -m "changes"
-git push
-git pull
-cd 03-SeinfeldApp
-cd 01-activities
-cd 03-SeinfeldApp
-node server.js
-npm install express
-npm install mysql
-node server.js
-01-Activities/03-SeinfeldApp/server.js
-cd 01-Activities
-cd 03-SeinfeldApp
-node server.js
-cd /Users/Loney/UTSA-SAN-FSF-PT-01-2020-U-C/13-MVC/01-Activities/03-SeinfeldApp
+git clone https://github.com/loneyb11/gif-lash.git
+echo "# gif-lash" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/loneyb11/gif-lash.git
+echo "# gif-lash" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/loneyb11/gif-lash-2.git
+git push -u origin master
+cd team-lineup
+touch index.html
+touch style.css
+heroku logs
+heroku log
+ heroku logs
+git clone https://github.com/loneyb11/gif-lash.git
+mysql
+echo $PATH
+~
+ls -alh
+cat .bash_profile
+cp .bash_profile .bash_profile_backup
+locate mysql | less
+echo $PATH
+mysql -u root -p
+sudo ./mysqld_safe --console
+./mysql
+./mysql -u root -p
+nano ~/.bash_profile
 npm init
-node server.js
-cd /Users/Loney/UTSA-SAN-FSF-PT-01-2020-U-C/13-MVC/01-Activities/03-SeinfeldApp
-npm install mysql
-node server.js
-cd /Users/Loney/UTSA-SAN-FSF-PT-01-2020-U-C/13-MVC/01-Activities/04-HandlebarsLunch
-cd v
-cd /Users/Loney/UTSA-SAN-FSF-PT-01-2020-U-C/13-MVC/01-Activities/04-HandlebarsLunch/server.js
-cd 01-Activities
-04-HandlebarsLunch
-cd 04-HandlebarsLunch
-cd server.js
-node server.js
-cd /Users/Loney/UTSA-SAN-FSF-PT-01-2020-U-C/13-MVC/01-Activities/03-SeinfeldApp
-node.server.js
-node server.js
-cd /Users/Loney/UTSA-SAN-FSF-PT-01-2020-U-C/13-MVC/01-Activities/04-HandlebarsLunc
-cd 01-Activities/04-HandlebarsLunch
-npm install express-handlebars
-npm install express
-node server.js
-cd /Users/Loney/UTSA-SAN-FSF-PT-01-2020-U-C/13-MVC/01-Activities/05-BenAndJerrys
+npm install -p
+npm install bootstrap
+npm install select2
+npm install moment.js
+npm i moment
+npm i spectrum
+npm i jquery
+npm i jqueryui
 npm init
 npm install
+npm install socket.io
+npm install express
+npm -i express-handlebars
+npm i express-handlebars
+npm i express passport
+npm install fs
+npm install path
+npm i sequelize
+npm bcrypt
+npm i bcrypt
 node server.js
-cd /Users/Loney/UTSA-SAN-FSF-PT-01-2020-U-C/13-MVC/01-Activities/05-BenAndJerrys
+node server.js
+node.js
+node --version
+heroku buildpacks
+npm install
 node server.js
 npm install express-handlebars
 node server.js
-cd 05-BenAndJerrys
-cd /Users/Loney/UTSA-SAN-FSF-PT-01-2020-U-C/13-MVC/01-Activities/05-BenAndJerrys
+npm i express-session
 node server.js
-cd /Users/Loney/UTSA-SAN-FSF-PT-01-2020-U-C/13-MVC/01-Activities/05-BenAndJerrys
+npm install socket.io
+node --version
 node server.js
-cd /Users/Loney/UTSA-SAN-FSF-PT-01-2020-U-C/13-MVC/01-Activities/05-BenAndJerrys
+npm install mysql2
 node server.js
-cd /Users/Loney/UTSA-SAN-FSF-PT-01-2020-U-C/13-MVC/01-Activities/05-BenAndJerrys
+npm install bcrypt
 node server.js
-cd /Users/Loney/UTSA-SAN-FSF-PT-01-2020-U-C/13-MVC/01-Activities/05-BenAndJerrys
+npm i passport
 node server.js
-cd /Users/Loney/UTSA-SAN-FSF-PT-01-2020-U-C/13-MVC/01-Activities/05-BenAndJerrys
+npm install passort-local
+npm install passport-local'
+
+npm install passport-local'
+passport-local
+npm install passport-local
+node server.js
+start mysql
+launchctl
+mysqld
+usr
+cd usr
+npm install interactjs
+node server.js
+node serverjs
+node server.js
+npm install compression
+npm install express
+npm install mongoose
 node server.js
 node server.js
-cd /Users/Loney/UTSA-SAN-FSF-PT-01-2020-U-C/13-MVC/01-Activities/05-BenAndJerrys
+node server.js
+npm install
+npm run seed
+npm start
+npm start
+git clone https://github.com/greenc123/Ground.git
+npm start
+npm install express
+npm install morgan
+npm install mongoose
+git clone https://github.com/loneyb11/NoSQL-HW-Fitness-Tracker.git
+heroku logs
+heroku
+heroku logs
+heroku logs --tail
+heroku logs --tail
+node server.js
+node server.js
+git clone https://github.com/loneyb11/budget-tracker-HW.git
+npx create-react-app reactpractice
+cd reactpractice
+npm start
+npm start
+npm start
+src/App.js
+npx create-react-app reactpractice
+npm start
+npm install react --save
+install react-dom --save
+npm install react-dom --save
+npm install webpack --save
+install webpack-dev-server --save
+npm install webpack-dev-server --save
+npm install webpack-cli --save
+mkdir reactApp
+cd reactApp
+npm init
+npm install react --save
+npm install react-dom --save
+npm install webpack --save
+npm install webpack-dev-server --save
+npm install webpack-cli --save
+npm install babel-core --save-dev
+npm install babel-loader --save-dev
+npm install babel-preset-env --save-dev
+npm install babel-preset-react --save-dev
+npm install html-webpack-plugin --save-dev
+type nul > index.html
+>type nul > index.html
+touch index.html
+touch App.js
+touch main.js
+touch webpack.config.js
+touch.babelrc
+npm start
+npm start
+npx start
+npm start
+npm start
+node start
+npm run
+npm start
+npm start
+npm start
+npm start
+npm init
+npm start
+npm install
+npm start
+npm start
+react-scripts start
+npm react-scripts start
+npm init
+npm install
+npm install webpack-cli -D
+npm install mongoose
+git init
+git clone https://github.com/loneyb11/sau-website.git
+npm install react
+npm install react-dom
+node start
+npm install react
+npm install react-dom
+node start
+node index.js
+node start
+node start
+npm start
+npm start
+npm start
+npm install express
+npm audit fix
+npm install morgan
+npm init
+npm install mongoose
+npm install compression
+node server.js
+node server.js
+node server.js
+node server.js
+node server.js
+node server.js
+node server.js
+node server.js
+npm install
+npm init
+npm install express
+npm install morgan
+npm install mongoose
+npm install compression
+node server.js
+node server.js
+node server.js
+node server.js
+node server.js
+node server.js
+node server.js
+node server.js
+node server.js
+node server.js
+node server.js
+node server.js
+node server.js
+heroku logs --tail
+install heroku
+brew tap heroku/brew && brew install heroku
+heroku logs --tail
+git init
+heroku git:remote -a my-budget-app-hw-api
+heroku
+heroku logs
+heroku apps
+heroku my-budget-app-hw
+node server.js
+node server.js
+node server.js
+npm i express
+npm i morgen
+npm in morgan
+npm i morgan
+npm i mongoose
+npm install compression
+npm install
+node server.js
+node server.js
+node server.js
+npm init
+node server.js
+npm install
+npm init
+npm install express
+npm install morgan
+npm install mongoose
+npm install compression
+node server.js
+node server.js
+node.js
+node js
+node server.js
+node server.js
+node server.js
+heroku logs
+node server.js
+node server.js
+node server.js
+node server.js
+node server.js
+node.server.js
+node server.js
+node server.js
+node server.js
+node server.js
+node server.js
+node server.js
+node server.js
+brew uninstall node
+brew install node
+brew install npm
+brew link node
+$ ls -al /usr/local/share/systemtap/
+drwxr-xr-x   3 root  wheel  102 Oct 23 18:06 .
+drwxrwxr-x  15 root  wheel  510 Oct 24 20:24 ..
+drwxr-xr-x   2 root  wheel   68 Oct 24 20:17 tapset
+sudo chmod -R 775 /usr/local/share/systemtap/tapset/
+brew link node
+brew install npm
+sudo brew link node
+brew link node
+brew node.js
+brew node
+node
+brew
+brew update
+brew node uninstall
+brew uninstall node
+brew uninstall
+brew uninstall remove
+uby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/uninstall)"
+brew install node
+brew link node
+brew link npm
+brew uninstall npm
+brew unistall node
+brew uninstall node
+brew install node
+brew install npm
+brew link node
+brew uninstall node; brew prune; sudo rm /usr/local/bin/npm; sudo rm /usr/local/share/man/man1/node.1; sudo rm /usr/local/lib/dtrace/node.d; sudo rm -rf ~/.npm; sudo rm -rf ~/.node-gyp; sudo rm /opt/local/bin/node; sudo rm -rf /opt/local/lib/node_modules; lsbom -f -l -s -pf /var/db/receipts/org.nodejs.pkg.bom | while read f; do  sudo rm /usr/local/${f}; done; sudo rm -rf /usr/local/lib/node /usr/local/lib/node_modules /var/db/receipts/org.nodejs.*;
+sudo npm uninstall npm -g
+sudo make uninstall
+rm -rf /usr/local/{lib/node{,/.npm,_modules},bin,share/man}/npm*
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/uninstall.sh)"
+npm install
+npm init
+npm install -g
+npm -g install
+npm install -g
+npm inti
+npm init
+npm install
+npm install express
+npm install mongoose
+npm install compression
+npm install morgan
+npm install bootstrap
+node server.js
+node server.js
+node server.js
+const router = require("express").Router();
+const Transaction = require("../models/transaction.js");
+router.post("/api/transaction", ({body}, res) => {
+  Transaction.create(body)
+    .then(dbTransaction => {
+      res.json(dbTransaction);
+    })
+    .catch(err => {
+      res.status(404).json(err);
+    });
+});
+router.post("/api/transaction/bulk", ({body}, res) => {
+  Transaction.insertMany(body)
+    .then(dbTransaction => {
+      res.json(dbTransaction);
+    })
+    .catch(err => {
+      res.status(404).json(err);
+    });
+});
+router.get("/api/transaction", (req, res) => {
+  Transaction.find({}).sort({date: -1})
+    .then(dbTransaction => {
+      res.json(dbTransaction);
+    })
+    .catch(err => {
+      res.status(404).json(err);
+    });
+});
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+brew help
+brew install node.js
+brew install npm
+brew reinstall node
+node server.js
+node server.js
+node server.js
+npm install webpack-dev-server
+node server.js
+npm i core-util-is
+node server.js
+npm run clean
+npm run clean && npm run build
+npm run build
+node server.js
+node server.js
+node server.js
+node server.js
+node server.js
+npm install
+node server.js
+node server.js
+npm install mongoose
+node install.js
+npm install fs
+node server.js
+node server.js
+node server.js
+npm install express
+npm install compression
+npm install morgan
+npm install mongoose
+node server.js
+node server.js
+node server.js
+node server.js
+node server.js
+node server.js
+npm i express
+gcloud init
+python-v
+./google-cloud-sdk/install.sh
+./google-cloud-sdk/install.sh
+heroku config:get MONGODB_URI
+mongo ds149905.mlab.com:49905/heroku_jbvdn60k -u <dbuser> -p <dbpassword>
+mongo ds149905.mlab.com:49905/heroku_jbvdn60k -u <dbuser> -p <dbpassword>
+mongo
+mongo -v
+brew install mongodb/brew/mongodb-community-shell
+mongo "mongodb+srv://cluster0-fbsxu.mongodb.net/test" --username loneyb11
+mongo "mongodb+srv://cluster0-fbsxu.mongodb.net/test" --username loneyb11
+node server.js
+node server.js
+mongo ds149905.mlab.com:49905/heroku_jbvdn60k -u <dbuser> -p <dbpassword>
+mongodb
+mongod
+heroku config:set PROD_MONGODB=mongodb://dbuser:dbpass@host1:port1,host2:port2/dbname
+heroku config:set PROD_MONGODB=mongodb://loneyb11:2510bj334382@host1:port1,host2:port2/dbnamee
+heroku config:set PROD_MONGODB=mongodb://dbuser:dbpass@host1:port1,host2:port2/dbname
+heroku config:set PROD_MONGODB=mongodb://dbuser:dbpass@host1:port1,host2:port2
+heroku congig
+heroku config
+heroku config:set PROD_MONGODB=mongodb://heroku_jbvdn60k:dbpass@host1:port1,host2:port2/heroku_jbvdn60k
+heroku restart
+heroku login
+$ heroku git:clone -a my-budget-app-hw
+$ cd my-budget-app-hw
+$ git add .
+$ git commit -am "make it better"
+$ git push heroku master
+budget-tracker-HW
+git clone https://github.com/jonasschmedtmann/advanced-css-course.git
+git clone https://github.com/jonasschmedtmann/complete-node-bootcamp.git
+npm update
+npm audit fix
+npm install -g npm
+npm reinstall mongoose
+npm install mongoose
+npm --save-dev webpack@^4.0.0
+npm install --save-dev webpack@^4.0.0
+npm install --save-dev popper.js@^1.16.0
+npm install --save-dev jquery@1.9.1 - 3
+npm audit fix
+npm audit fix --force
+npm audit fix
+git add .
+$ git commit -m "Procfile"
+$ git push heroku master
+git add
+git add .
+git commit -m "procfile"
+git commit -m "Procfile"
+heroku ps
+npm install heroku
+npm logs
+npm bugs
 node server.js
